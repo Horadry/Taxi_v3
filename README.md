@@ -14,7 +14,8 @@ There are four designated locations in the grid world indicated by R(ed), G(reen
 
 #### States:   
 
-    We have 500 discrete states, each state space is represented by the tuple: (taxi_row, taxi_col, passenger_location, destination)   
+    We have 500 discrete states.
+    Each state space is represented by the tuple: (taxi_row, taxi_col, passenger_location, destination)   
 
 #### Rewards:   
 
