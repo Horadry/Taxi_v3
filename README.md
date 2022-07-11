@@ -13,7 +13,7 @@ https://www.gymlibrary.ml/environments/toy_text/taxi/?highlight=taxi
 
 
 **Results:**
-
+| Method      | Score |
 ----------------------
-Q-learning    | 8.24
+| Q-learning  | 8.24  |
 ----------------------
