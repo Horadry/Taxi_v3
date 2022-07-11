@@ -9,12 +9,12 @@ There are four designated locations in the grid world indicated by R(ed), G(reen
 
 #### Actions:
 
-There are 6 actions:
+    There are 6 actions:
     0: move south / 1: move north / 2: move east / 3: move west / 4: pickup passenger / 5: drop off passenger
 
 #### States:   
 
-We have 500 discrete states, each state space is represented by the tuple: (taxi_row, taxi_col, passenger_location, destination)   
+    We have 500 discrete states, each state space is represented by the tuple: (taxi_row, taxi_col, passenger_location, destination)   
 
 #### Rewards:   
 
@@ -32,23 +32,23 @@ We have 500 discrete states, each state space is represented by the tuple: (taxi
 
 #### My hyperparameters:
 
-Number of episodes: 50000 
+    Number of episodes: 50000 
 
-Max steps per episode: 99 
+    Max steps per episode: 99 
 
-Learning rate: 0.06
+    Learning rate: 0.06
 
-Discount rate (gamma): 0.86
+    Discount rate (gamma): 0.86
 
-Exploration rate: epsilon = 0.95, epsilon_min = 0.01   
+    Exploration rate: epsilon = 0.95, epsilon_min = 0.01   
 
-Decay rate: 0.0099   
+    Decay rate: 0.0099   
 
 
 
 ## Results:
 
-| Method        | Score         |
-| ------------- | ------------- |
-| Q-learning    | 8.24          |
-|               |               |
+    | Method        | Score         |
+    | ------------- | ------------- |
+    | Q-learning    | 8.24          |
+    |               |               |
