@@ -1,4 +1,19 @@
-# Taxi_v3
+# **Taxi_v3**
 My solution to the OpenAI Taxi-v3 task
 
 https://www.gymlibrary.ml/environments/toy_text/taxi/?highlight=taxi
+
+
+
+**Methods:**
+
+1. Q-learning
+
+
+
+
+**Results:**
+
+----------------------
+Q-learning    | 8.24
+----------------------
