@@ -45,11 +45,11 @@ There are four designated locations in the grid world indicated by R(ed), G(reen
 
     Decay rate: 0.0099   
 
-
+### 2. DQN
 
 ## Results:
 
     | Method        | Score         |
     | ------------- | ------------- |
     | Q-learning    | 8.24          |
-    |               |               |
+    | DQN           |               |
